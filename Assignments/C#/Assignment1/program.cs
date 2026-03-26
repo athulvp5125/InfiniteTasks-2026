@@ -14,7 +14,7 @@ namespace Assignment1
         }
     }
 
-    // -------- TASK 1 --------
+    
     internal class Task1
     {
         public static void CheckEquality()
@@ -36,7 +36,7 @@ namespace Assignment1
         }
     }
 
-    // -------- TASK 2 --------
+    
     internal class Task2
     {
         public static void CheckNumberType()
@@ -53,7 +53,7 @@ namespace Assignment1
         }
     }
 
-    // -------- TASK 3 --------
+    
     internal class Task3
     {
         public static void BasicCalculator()
@@ -75,7 +75,7 @@ namespace Assignment1
         }
     }
 
-    // -------- TASK 4 --------
+    
     internal class Task4
     {
         public static void GenerateTable()
@@ -92,7 +92,7 @@ namespace Assignment1
         }
     }
 
-    // -------- TASK 5 --------
+    
     internal class Task5
     {
         public static void SumOrTriple()
